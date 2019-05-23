@@ -1,6 +1,6 @@
 /**
  *
- * @author Nikzad Babaii Rizvandi (National ICT Australia)- nikzad.b@gmail.com
+ *
  * @author Najmeh Kamyabpour (University of Technology, Sydney) - najmeh@it.uts.edu.au
  * This Java-based project is the modified version of the WSN simulator algorithm in
  * http://www.djstein.com/projects/WirelessSensorNetworkSimulator.html

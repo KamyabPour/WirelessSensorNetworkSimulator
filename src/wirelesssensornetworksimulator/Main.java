@@ -1,6 +1,6 @@
 /**
  *
- * @author Nikzad Babaii Rizvandi (National ICT Australia & University of Sydney)- nikzad@it.usyd.edu.au
+ * @author
  * @author Najmeh Kamyabpour (University of Technology, Sydney) - najmeh@it.uts.edu.au
  * This project is the java version of the program written originally in C#. The C# code is available in
  * http://www.djstein.com/projects/WirelessSensorNetworkSimulator.html
